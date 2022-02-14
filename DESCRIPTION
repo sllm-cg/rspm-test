@@ -1,0 +1,11 @@
+Package: EllaTestRSPM
+Type: Package
+Title: Test package from Ella
+Version: 1.0.1
+Author: Ella
+Maintainer: Ella Yin <ella.yin@capgroup.com>
+Description: Simple package
+    Developed for testing purpose.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
